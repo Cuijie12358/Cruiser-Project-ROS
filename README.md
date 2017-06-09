@@ -1,9 +1,8 @@
-# Guidance-SDK
-=====
+#Guidance-SDK
 Guidance-SDK on DJI M100.I just develop it for fun.
 ## Authors and Current Version
 Auther: 
-- [@Cuijie12358](https://github.com/Cuijie12358)
+- [@Cuijie12358](https://github.com/Cuijie12358)<br/>
 Current version:
 1.0 (see Versionlog.md)
 ## Platform
