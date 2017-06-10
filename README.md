@@ -11,8 +11,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 - [DJI Guidance](http://www.dji.com/guidance)
 - [DJI Manifold](http://www.dji.com/cn/manifold)
 ## Structure
-* OSDK:
-  Onboard-sdk part was pushed to - [here](https://github.com/CruiserProject/Cruiser-OnboardROS) which is developed by an awesome team :) . We have worked on it for few months and all of us are new to ROS.So please let us know if you have any advise.
-* Guidance:
-  This part is developed for fun.I am thinking about using it to tracjectory planning.
+* OSDK:<br/>
+Onboard-sdk part was pushed to - [here](https://github.com/CruiserProject/Cruiser-OnboardROS) which is developed by an awesome team :) . We have worked on it for few months and all of us are new to ROS.So please let us know if you have any advise.
+* Guidance:<br/>
+This part is developed for fun.I am thinking about using it to tracjectory planning.
  
